@@ -3,6 +3,6 @@
   "name": "Spotify Tools",
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#6fc7b6",
+  "theme_color": "#677D8A",
   "background_color": "#ffffff"
 }
